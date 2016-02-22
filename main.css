@@ -1,0 +1,660 @@
+/* HTML5 : CSS3 stylesheet; v1.02.2a */
+/* Copyright Lee Owen February 2010 */
+
+/* So IE can render new HTML5 tags correctly  */
+article, aside, dialog, figure, footer, header,
+  hgroup, menu, nav, section { display: block; }
+
+/* Now using Modernizr */
+
+/* Browser Reset Based on Eric Meyer's reset css
+http://meyerweb.com/eric/tools/css/reset/ 
+----------------------------------------------------------------------------------------- */
+ 
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+margin : 0; padding : 0; border : 0; outline : 0; font-size : 100%; vertical-align : baseline; background : transparent; }
+body { line-height : 1; }
+ol, ul { list-style-type : none; }
+/* blockquote, q { quotes : none; } */
+/* blockquote:before, blockquote:after, q:before, q:after { content : ''; content : none; } */
+:focus { outline : 0; }
+ins { text-decoration : none; }
+del { text-decoration : line-through; }
+ 
+/* Modified from: http://code.google.com/p/blueprintcss/
+Thanks to Andy Clarke http://www.forabeautifulweb.com/
+----------------------------------------------------------------------------------------- */
+body { font : 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+h1, h2, h3, h4 { font-weight : normal; }
+p { margin-bottom : 1em; }
+ul, ol { margin : 1.5em 0; }
+ul { list-style-type : none; list-style-position : inside; }
+ol { list-style-type : decimal; list-style-position : inside; }
+abbr, acronym { border-bottom-width : 0; }
+strong { font-weight : bold; }
+em { font-style : italic; }
+
+/* =fonts 
+
+@font-face {
+	font-family: 'PTSansRegular';
+	src: url('../fonts/PT_Sans.eot');
+	src: local('PT Sans Regular'), local('PTSans-Regular'), url('../fonts/PT_Sans.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PTSansItalic';
+	src: url('../fonts/PT_Sans_Italic.eot');
+	src: local('PT Sans Italic'), local('PTSans-Italic'), url('../fonts/PT_Sans_Italic.ttf') format('truetype');
+}
+
+*/
+
+/* =general */
+
+html {
+	background: url(images/html-bg.jpg) top left;
+}
+
+body {
+	background: url(images/body-bg.jpg) top left;
+	margin: 0 auto;
+	max-width: 980px;
+	position: relative;
+	font-size: 14px;
+}
+
+a {
+	outline: none;
+	letter-spacing: 0.1em;
+	background: #99ff66;
+	color: #fff;
+}
+a:visited {
+	
+}
+a:hover {
+
+}
+p {
+	font-family: 'PTSansRegular', "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	font-size: 0.9em;
+	letter-spacing: 0.05em;
+	color: #666;
+}
+img {
+	border: none;
+}
+ul {
+
+}
+ul li {
+
+}
+ol {
+
+}
+form {
+
+}
+small {
+	font-size: 90%;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Wide awake', "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	color: #99ff66;	
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.2em; }
+h4 { font-size: 1.0em; }
+h5 { font-size: 0.9em; }
+h6 { font-size: 0.8em; }
+
+dt {
+
+}
+dd {
+
+}
+pre, code {
+	font-family:Monaco,"Courier New",Courier,monospace;
+	font-size:12px;
+	background:#EBF5FF;
+	overflow:auto;
+}
+code {
+
+}
+pre {
+
+}
+blockquote {
+	border:none !important;
+}
+blockquote p {
+
+}
+
+/* =selectors */
+
+#stripe {
+	background: url(images/stripe.png) top left;
+	width: 100%;
+	height: 100%;
+/*	opacity: 0.5;*/
+}
+
+/* ==Branding Style== */
+
+#branding {
+	height: 224px;
+	background: url(images/header.png) top left;
+}
+
+#logo {
+	margin: 10px;
+}
+
+#logo h1 {
+	display: none;
+}
+
+/* ==Nav Style== */
+
+
+#nav li a {
+	position: absolute;
+	text-indent: -9999px;
+}
+
+#nav li ul li a {
+	position: relative;
+}
+
+#nav li a {
+	display: block;
+}
+
+#nav a#active {
+	cursor: default;
+}
+
+#nav #home a {
+	top: 20px;
+	left: 20px;
+	width: 100px;
+	height: 60px;
+	background: url(images/nav-home.png) top left no-repeat;
+}
+
+#nav #home a:hover, #nav #home a#active {
+	background-image: url(images/nav-home-active.png);
+}
+
+#nav #workshop a {
+	top: 220px;
+	left: 80px;
+	width: 250px;
+	height: 40px;
+	background: url(images/service-centre.png) center left no-repeat;
+}
+
+#nav #workshop a:hover, #nav #workshop a#active {
+/*	background-image: url(images/nav-workshop-active.png);*/
+}
+
+#nav #raceteam a {
+	top: 140px;
+	left: 200px;
+	width: 260px;
+	height: 115px;
+	background: url(images/subnav-spon-riders.png) top left no-repeat;
+}
+
+/*#nav #raceteam a:hover, #nav #raceteam a#active {
+	background-image: url(images/nav-raceteam-active.png);
+}*/
+
+#nav #news a {
+	top: 30px;
+	left: 400px;
+	width: 150px;
+	height: 120px;
+	background: url(images/nav-news.png) top left no-repeat;
+}
+
+#nav #news a:hover, #nav #news a#active {
+	background-image: url(images/nav-news-active.png);
+}
+
+#nav #gallery a {
+	top: 100px;
+	left: 500px;
+	width: 150px;
+	height: 120px;
+	background: url(images/nav-gallery.png) top left no-repeat;
+}
+
+#nav #gallery a:hover, #nav #gallery a#active {
+	background-image: url(images/nav-gallery-active.png);
+}
+
+#nav #shop {
+	background: url(images/photo.png) top left no-repeat;
+	width: 362px;
+	height: 270px;
+	position: absolute;
+	top: 40px;
+	left: 620px;
+	padding-top: 200px;
+	padding-left: 50px;
+}
+
+#nav #shop p {
+	display: block;
+	text-indent: -9999px;
+	width: 188px;
+	height: 60px;
+	margin: 0;
+	padding: 0;
+}
+
+#nav #shop a#online {
+    background: url("images/shop-online.png") no-repeat scroll left top transparent;
+    display: block;
+    height: 62px;
+    position: relative;
+}
+
+#nav #contact a {
+	background: #99ff66;
+	color: #fff;
+	padding: 3px;
+	display: block;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	text-indent: 0;
+	text-decoration: none;
+}
+
+#nav #contact a:hover {
+	background: #fff;
+	color: #99ff66;
+}
+
+#nav #bike-shop a {
+    top: 225px;
+    left: 400px;
+    width: 200px;
+    height: 40px;
+	background: url("images/bike-shop.png") no-repeat scroll left top transparent;
+	display: block;
+	height: 40px;
+	position: absolute;
+}
+
+#subnav {
+	margin-top: 20px;
+}
+
+#subnav a {
+	width: 100%;
+	opacity:  0.8;
+	height: 40px;
+}
+
+#subnav a:hover {
+    opacity: 1;
+}
+
+#subnav a#Bikes {
+	height: 60px;
+	background: url(images/subnav-bikes.png) top left no-repeat;
+}
+
+#subnav a#Bikes:hover, #subnav #bikes a#active {
+	background-image: url(images/subnav-bikes-active.png);
+}
+
+#subnav a#Frames {
+	height: 60px;
+	background: url(images/subnav-frames.png) top left no-repeat;
+}
+
+#subnav a#Frames:hover, #subnav #frames a#active {
+	background-image: url(images/subnav-frames-active.png);
+}
+
+#subnav #Shockers {
+	height: 60px;
+	background: url(images/subnav-shockers.png) top left no-repeat;
+}
+
+#subnav a#Shockers:hover, #subnav #shockers a#active {
+	background-image: url(images/subnav-shockers-active.png);
+}
+
+#subnav a#Wheels {
+	height: 60px;
+	background: url(images/subnav-wheels.png) top left no-repeat;
+}
+
+#subnav a#Wheels:hover, #subnav #wheels a#active {
+	background-image: url(images/subnav-wheels-active.png);
+}
+
+#subnav a#Braking {
+	height: 60px;
+	background: url(images/subnav-braking.png) top left no-repeat;
+}
+
+#subnav a#Braking:hover, #subnav #braking a#active {
+	background-image: url(images/subnav-braking-active.png);
+}
+
+#subnav a#Gearing {
+	height: 60px;
+	background: url(images/subnav-gearing.png) top left no-repeat;
+}
+
+#subnav a#Gearing:hover, #subnav #gearing a#active {
+	background-image: url(images/subnav-gearing-active.png);
+}
+
+#subnav a#Controls {
+	height: 60px;
+	background: url(images/subnav-controls.png) top left no-repeat;
+}
+
+#subnav a#Controls:hover, #subnav #controls a#active {
+	background-image: url(images/subnav-controls-active.png);
+}
+
+#subnav a#Accessories {
+	height: 60px;
+	background: url(images/subnav-accessories.png) top left no-repeat;
+}
+
+#subnav a#Accessories:hover, #subnav #accessories a#active {
+	background-image: url(images/subnav-accessories-active.png);
+}
+
+#subnav a#Clothing {
+	height: 60px;
+	background: url(images/subnav-clothing.png) top left no-repeat;
+}
+
+#subnav a#Clothing:hover, #subnav #clothing a#active {
+	background-image: url(images/subnav-clothing-active.png);
+}
+
+#subnav a#Protection {
+	height: 60px;
+	background: url(images/subnav-protection.png) top left no-repeat;
+}
+
+#subnav a#Protection:hover, #subnav #protection a#active {
+	background-image: url(images/subnav-protection-active.png);
+}
+
+/*#subnav a.BMX {
+	height: 60px;
+	background: url(images/subnav-jet-bmx.png) top left no-repeat;
+}
+
+#subnav a.BMX:hover, #subnav .BMX a#active {
+	background-image: url(images/subnav-bmx-active.png);
+}*/
+
+#subnav a.Used {
+	height: 60px;
+	background: url(images/subnav-usedbikes.png) top left no-repeat;
+}
+
+#subnav a.Used:hover, #subnav .Used a#active {
+	background-image: url(images/subnav-usedbikes-active.png);
+}
+
+#subnav a.Special {
+	height: 60px;
+	background: url(images/subnav-specialoffer.png) top left no-repeat;
+}
+
+#subnav a.Special:hover, #subnav .Special a#active {
+	background-image: url(images/subnav-specialoffer-active.png);
+}
+
+#subnav a.Bargain {
+	background: url(images/subnav-barg-base.png) top left no-repeat;
+}
+
+#subnav a.Off-road {
+	background: url(images/subnav-off-road.png) top left no-repeat;
+}
+
+#subnav a.Kids {
+	background: url(images/subnav-kids-bicycles.png) top left no-repeat;
+}
+
+#subnav a.hand-built {
+	background: url(images/subnav-cust-handb.png) top left no-repeat;
+}
+
+#subnav a.On-road {
+	background: url(images/subnav-on-road.png) top left no-repeat;
+}
+
+#subnav a.Jet {
+	background: url(images/subnav-jet-bikes.png) top left no-repeat;
+}
+
+#subnav a.Mondraker {
+	background: url(images/subnav-mondraker.png) top left no-repeat;
+}
+
+#subnav a.Saracen {
+	background: url(images/subnav-saracen.png) top left no-repeat;
+}
+
+#subnav a.Fresh {
+	background: url(images/subnav-fresh.png) top left no-repeat;
+}
+
+
+/* ==Content Style== */
+
+#content {
+	background: #fff;
+	width: 580px;
+	margin: 50px 0 30px 30px;
+	padding: 10px;
+	border: 5px solid #99ff33;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: 0 0 60px #000;
+	-moz-box-shadow: 0 0 60px #000;
+	box-shadow: 0 0 60px #000;
+}
+
+#content img {
+	width: 300px;
+}
+
+/* ==Footer Style== */
+
+#footer {
+	background: url(images/footer-bg.png) bottom right no-repeat;
+	height: 467px;
+}
+
+#footer p {
+	position: absolute;
+	right: 10px;
+	bottom: -50px;
+	color: #fff;
+	font-size: 0.7em;
+}
+
+/* ==Previous Styles== */
+
+div.post {
+margin: 0 10px 0 10px;
+padding: 10px;
+border-bottom: 1px solid #ddd;
+overflow: hidden;
+}
+div.post h2 {
+margin: 20px 0 10px 0;
+border-bottom: 1px dotted #009933;
+}
+.post-date {
+font-size: 0.5em;
+font-weight: lighter;
+font-style: italic;
+font-family: Trebuchet, Arial, sans-serif;
+color: #999;
+padding: 0;
+}
+div.post h3 {
+padding: 10px 0 10px 0;
+}
+div.post p {
+padding: 0 10px 0 10px;
+color: #666;
+}
+div.post img {
+float: left;
+margin: 0 20px 20px 0;
+width: 160px;
+border: 1px solid #666666;
+}
+div#content-main ul#address, div#content-main ul#phones {
+padding: 10px 0 10px 150px;
+}
+div#content-sub {
+width: 400px;
+height: 300px;
+overflow-y: auto;
+position: absolute;
+top: 250px;
+left: 400px;
+}
+div#site-info {
+width: 1000px;
+height: 200px;
+background: transparent url('images/interface/footer.gif') 0 0 no-repeat;
+position: relative;
+}
+div#site-info p {
+position: absolute;
+bottom: 10px;
+right: 120px;
+font-size: 0.8em;
+color: #ffffff;
+}
+.clear {
+clear: both;
+}
+div#gallery {
+padding: 0 150px 0 150px;
+}
+div#gallery tr {
+border: 1px solid #999999;
+border-collapse: collapse;
+}
+div#form {
+padding: 10px 150px 0 150px;
+}
+form#contact_form {
+margin-top: 20px;
+position: relative;
+padding-bottom: 40px;
+}
+form#contact_form label {
+display: block;
+width: 200px;
+text-align: right;
+float: left;
+margin-right: 5px;
+}
+form#contact_form input, form#contact_form label, form#contact_form textarea {
+margin-top: 10px;
+}
+input#from, input#subject, textarea#message {
+width: 300px;
+}
+input.submit_button {
+position: absolute;
+bottom: 0;
+right: 180px;
+}
+p#paginate {
+padding: 10px 0;
+display: block;
+text-align: center;
+}
+#shop_blurb {
+margin: 0 130px 0 130px;
+}
+#shop_blurb img {
+float: left;
+margin: 10px 10px 10px 0;
+}
+
+/*  =shop styles*/
+
+
+#buy .post p {
+	background-image: none;
+	padding: 10px;
+}
+.store-item-desc {
+background-color: #fff;
+overflow: hidden;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+}
+
+.store-item-desc img {
+	width: 200px;
+}
+
+.store-item-desc p {
+	background-image: none;
+}
+
+.item-desc {
+	width: 300px;
+}
+
+.store-price {
+	font-size: 2em;
+	color: #ff0000;
+}
+
+.store-paypal {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ccc;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+}
+
+.store-paypal p {
+	font-size: 0.8em;
+	line-height: 30px;
+	margin: 0;
+}
+
+.store-paypal img {
+	width: 50px;
+	float: none;
+}
+
+.store-price p span{
+	color: #0f0;
+	font-weight: 800;
+}

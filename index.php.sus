@@ -1,0 +1,2 @@
+<?php
+print '<h1>Account Suspended</h1><h2>Please contact your supplier to bring your account up to date.</h2>';

@@ -1,0 +1,101 @@
+* {
+margin: 0;
+padding: 0;
+}
+body {
+font-family: "Trebuchet MS","Verdana","Arial",sans-serif;
+font-size: 14px;
+background-color: #23201d;
+}
+h1,h2,h3,h4,h5,h6 {
+font-family: "Bradley Hand ITC TT","Bradley Hand",serif;
+color: #009933;
+}
+a {
+text-decoration: none;
+color: #009933;
+}
+a:hover {
+border-bottom: 1px dotted #009933;
+}
+ul {
+list-style: none;
+}
+div#wrapper {
+width: 1000px;
+margin: 0 auto 0 auto;
+background-color: #5b6353;
+position: relative;
+overflow-x: hidden;
+}
+div#branding {
+width: 1000px;
+height: 422px;
+background: transparent url('images/masthead.gif') top left no-repeat;
+}
+div#logo {
+text-indent: -5000px;
+}
+div#nav {
+
+}
+ul#nav-main {
+position: absolute;
+top: 200px;
+left: 200px;
+}
+ul#nav-main a {
+font-family: "Bradley Hand ITC TT","Bradley Hand",serif;
+font-size: 1.3em;
+color: #333333;
+line-height: 1.7em;
+}
+ul#nav-main a:hover {
+color: #009933;
+}
+div#content {
+
+}
+div#content-main {
+background: transparent url('images/content-bg.gif') top left repeat-y;
+width: 1000px;
+}
+div#content-main h1 {
+background: transparent url('images/content-top.gif') 0px 0px no-repeat;
+width: 1000px;
+padding: 20px 0 0 130px;
+}
+div#content-main h3 {
+padding: 10px 0 10px 130px;
+}
+div#content-main p {
+padding: 0 150px 0 300px;
+}
+div#content-main img {
+float: left;
+margin: 0 10px 10px 130px;
+}
+div#content-main ul#address, div#content-main ul#phones {
+padding: 10px 0 10px 350px;
+}
+div#content-sub {
+width: 400px;
+height: 300px;
+overflow-y: auto;
+position: absolute;
+top: 250px;
+left: 400px;
+}
+div#site-info {
+width: 1000px;
+height: 200px;
+background: transparent url('images/footer.gif') 0 0 no-repeat;
+position: relative;
+}
+div#site-info p {
+position: absolute;
+bottom: 10px;
+right: 120px;
+font-size: 0.8em;
+color: #ffffff;
+}

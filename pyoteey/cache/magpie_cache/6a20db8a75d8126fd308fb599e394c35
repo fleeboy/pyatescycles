@@ -1,0 +1,486 @@
+O:9:"MagpieRSS":22:{s:6:"parser";N;s:12:"current_item";a:0:{}s:5:"items";a:15:{i:0;a:9:{s:5:"title";s:29:"Greetings from the other side";s:4:"link";s:69:"http://expressionengine.com/blog/entry/greetings_from_the_other_side/";s:2:"dc";a:1:{s:7:"creator";s:11:"Marcus Neto";}s:8:"category";s:4:"News";s:8:"comments";s:69:"http://expressionengine.com/blog/entry/greetings_from_the_other_side/";s:11:"description";s:1424:"<p>First let me start by saying hello to the community at large. For over 5 years I have been on your side of the EllisLab / Community relationship so it is still a bit strange having been absorbed into the matrix, but so far so good (did I mention they have cookies?). As you have probably heard I was hired to bring an Enterprise Level of services to EllisLab for those working with ExpressionEngine. I would like to take this opportunity to say that if you are a developer that regularly works on Enterprise level work; or if you are a direct client and have a reason to be interested in Enterprise Services I would love to hear from you.</p>
+
+<p>Now, on to some other exciting stuff! This week Leslie Camacho, Leslie Doherty, Greg Aker and myself will be attending <a href="http://sxsw.com">SxSW</a> in the hopes of meeting up with community members. So if you are going to be there make sure to check in on the <a href="http://www.facebook.com/#!/event.php?eid=158751037513904">FaceBook page for the Meet-up</a>. Also make sure to let us know in the forum thread for this blog post in case you are not able to attend that gathering.</p>
+
+<p>If you have something you want to discuss that you think warrants a private meeting with any of the four of us then just send the person you want to meet with an email. This week is mostly about meeting with you and carrying any thoughts you may have back into the matrix.</p>
+
+";s:4:"guid";s:84:"http://expressionengine.com/blog/entry/greetings_from_the_other_side/#When:23:24:32Z";s:7:"pubdate";s:29:"Tue, 08 Mar 2011 23:24:32 GMT";s:7:"summary";s:1424:"<p>First let me start by saying hello to the community at large. For over 5 years I have been on your side of the EllisLab / Community relationship so it is still a bit strange having been absorbed into the matrix, but so far so good (did I mention they have cookies?). As you have probably heard I was hired to bring an Enterprise Level of services to EllisLab for those working with ExpressionEngine. I would like to take this opportunity to say that if you are a developer that regularly works on Enterprise level work; or if you are a direct client and have a reason to be interested in Enterprise Services I would love to hear from you.</p>
+
+<p>Now, on to some other exciting stuff! This week Leslie Camacho, Leslie Doherty, Greg Aker and myself will be attending <a href="http://sxsw.com">SxSW</a> in the hopes of meeting up with community members. So if you are going to be there make sure to check in on the <a href="http://www.facebook.com/#!/event.php?eid=158751037513904">FaceBook page for the Meet-up</a>. Also make sure to let us know in the forum thread for this blog post in case you are not able to attend that gathering.</p>
+
+<p>If you have something you want to discuss that you think warrants a private meeting with any of the four of us then just send the person you want to meet with an email. This week is mostly about meeting with you and carrying any thoughts you may have back into the matrix.</p>
+
+";}i:1;a:9:{s:5:"title";s:52:"SafeCracker is now available at ExpressionEngine.com";s:4:"link";s:92:"http://expressionengine.com/blog/entry/safecracker_is_now_available_at_expressionengine.com/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:92:"http://expressionengine.com/blog/entry/safecracker_is_now_available_at_expressionengine.com/";s:11:"description";s:2259:"<p>EllisLab, along with Chris Newton of <a href="http://BarrettNewton.com">Barrett Newton, Inc.</a>, are pleased to announce that SafeCracker is now available, for free, at ExpressionEngine.com. You can find SafeCracker in our store under &#8220;<a href="https://secure.expressionengine.com/download.php">My Purchases</a>&#8221;. You now have all the power and flexibility of SafeCracker at your fingertips for your existing and future ExpressionEngine projects (did we mention it&#8217;s free?).</p>
+
+<p>What is SafeCracker? For those of you who are not familiar with this add-on, it was originally created by the CartThrob team at Barrett Newton, Inc.&nbsp; From the Barrett Newton team: &#8220;SafeCracker is a replacement and enchancement of ExpressionEngine’s Stand Alone Entry Form. SafeCracker makes it possible to add and edit your site’s content without accessing the backend. This allows you to push the boundaries of ExpressionEngine design and development, create rich web applications, and simplify your development process.&#8221;</p>
+
+<p>We’ll be working diligiently to integrate SafeCracker into ExpressionEngine&#8217;s native feature set. If there are specific ways you&#8217;d like to see SafeCracker integrated, don&#8217;t be shy, tell us on the forums, Twitter, Facebook, or your blog and let us know about it. </p>
+
+<p>EllisLab will support SafeCracker directly through the <a href="http://expressionengine.com/forums">Support Forums</a> (like we do for all First Party add-ons). The team at Barrett Newton will continue to assist EllisLab during the transition to provide the smoothest possible release. </p>
+
+<blockquote><p>
+&#8220;We’re very happy that this will become part of EE. We’re committed, in our little corner of the world, to the continued advancement of EE, to the simplification of the development process, and the constant refinement of our tools. We do what we can to grow the EE ecosystem and user base.&#8221; -Chris Newton</p></blockquote>
+
+<p>We&#8217;re excited about what this opportunity means to the community and to ExpressionEngine&#8217;s future. Thank you to Chris and his team at <a href="http://BarrettNewton.com">Barrett Newton, Inc.</a> for helping us bring SafeCracker to the community.
+</p>";s:4:"guid";s:107:"http://expressionengine.com/blog/entry/safecracker_is_now_available_at_expressionengine.com/#When:18:22:24Z";s:7:"pubdate";s:29:"Thu, 24 Feb 2011 18:22:24 GMT";s:7:"summary";s:2259:"<p>EllisLab, along with Chris Newton of <a href="http://BarrettNewton.com">Barrett Newton, Inc.</a>, are pleased to announce that SafeCracker is now available, for free, at ExpressionEngine.com. You can find SafeCracker in our store under &#8220;<a href="https://secure.expressionengine.com/download.php">My Purchases</a>&#8221;. You now have all the power and flexibility of SafeCracker at your fingertips for your existing and future ExpressionEngine projects (did we mention it&#8217;s free?).</p>
+
+<p>What is SafeCracker? For those of you who are not familiar with this add-on, it was originally created by the CartThrob team at Barrett Newton, Inc.&nbsp; From the Barrett Newton team: &#8220;SafeCracker is a replacement and enchancement of ExpressionEngine’s Stand Alone Entry Form. SafeCracker makes it possible to add and edit your site’s content without accessing the backend. This allows you to push the boundaries of ExpressionEngine design and development, create rich web applications, and simplify your development process.&#8221;</p>
+
+<p>We’ll be working diligiently to integrate SafeCracker into ExpressionEngine&#8217;s native feature set. If there are specific ways you&#8217;d like to see SafeCracker integrated, don&#8217;t be shy, tell us on the forums, Twitter, Facebook, or your blog and let us know about it. </p>
+
+<p>EllisLab will support SafeCracker directly through the <a href="http://expressionengine.com/forums">Support Forums</a> (like we do for all First Party add-ons). The team at Barrett Newton will continue to assist EllisLab during the transition to provide the smoothest possible release. </p>
+
+<blockquote><p>
+&#8220;We’re very happy that this will become part of EE. We’re committed, in our little corner of the world, to the continued advancement of EE, to the simplification of the development process, and the constant refinement of our tools. We do what we can to grow the EE ecosystem and user base.&#8221; -Chris Newton</p></blockquote>
+
+<p>We&#8217;re excited about what this opportunity means to the community and to ExpressionEngine&#8217;s future. Thank you to Chris and his team at <a href="http://BarrettNewton.com">Barrett Newton, Inc.</a> for helping us bring SafeCracker to the community.
+</p>";}i:2;a:9:{s:5:"title";s:56:"Introducing Marcus Neto, Director of Enterprise Services";s:4:"link";s:95:"http://expressionengine.com/blog/entry/introducing_marcus_neto_director_of_enterprise_services/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:4:"News";s:8:"comments";s:95:"http://expressionengine.com/blog/entry/introducing_marcus_neto_director_of_enterprise_services/";s:11:"description";s:1766:"<p>I&#8217;m pleased to formally introduce Marcus Neto, EllisLab&#8217;s Director of Enterprise Services. Long time members of the Community already know Marcus quite well. He runs Blue Fish Design Studios (a long time member of the Pro Net), EE Templates, he&#8217;s an Official Community Partner through <a href="http://show-ee.com">Show-ee</a>, and super active on Twitter (<a href="https://twitter.com/#!/marcusneto">@marcusneto</a>) and anywhere else he can help someone master ExpressionEngine. </p>
+
+<p>Marcus has a background in enterprise sales and support via his former life consulting for the Federal Government, the Department of State, and implementing high level tools from IBM for corporate clients. He also knows what it&#8217;s like to be a freelancer and grow from a one person shop into a small team ready to make the jump to bigger opportunities. He&#8217;ll bring those experiences along with his down to earth approach to EllisLab. </p>
+
+<p>Marcus&#8217;s primary responsibility is to help us shape what our Enterprise services look like from start to finish without resorting to &#8220;paradigm shifting&#8221; or &#8220;aligning our vertical spaces for maximum efficiencies.&#8221; We&#8217;re excited to work with Marcus because he understands that in order for EllisLab to succeed in the Enterprise, we have to remain true to our Community every step of the way. </p>
+
+<p>You&#8217;ll also see Marcus providing technical support on the forums and helping out in sales as he makes himself at home here. </p>
+
+<p>It is still too early for us to share any details, but certainly feel free to inundate Marcus with your thoughts, hopes, and dreams for what you&#8217;d like to see from EllisLab Enterprise services. He is at your service. 
+</p>";s:4:"guid";s:110:"http://expressionengine.com/blog/entry/introducing_marcus_neto_director_of_enterprise_services/#When:20:08:25Z";s:7:"pubdate";s:29:"Tue, 15 Feb 2011 20:08:25 GMT";s:7:"summary";s:1766:"<p>I&#8217;m pleased to formally introduce Marcus Neto, EllisLab&#8217;s Director of Enterprise Services. Long time members of the Community already know Marcus quite well. He runs Blue Fish Design Studios (a long time member of the Pro Net), EE Templates, he&#8217;s an Official Community Partner through <a href="http://show-ee.com">Show-ee</a>, and super active on Twitter (<a href="https://twitter.com/#!/marcusneto">@marcusneto</a>) and anywhere else he can help someone master ExpressionEngine. </p>
+
+<p>Marcus has a background in enterprise sales and support via his former life consulting for the Federal Government, the Department of State, and implementing high level tools from IBM for corporate clients. He also knows what it&#8217;s like to be a freelancer and grow from a one person shop into a small team ready to make the jump to bigger opportunities. He&#8217;ll bring those experiences along with his down to earth approach to EllisLab. </p>
+
+<p>Marcus&#8217;s primary responsibility is to help us shape what our Enterprise services look like from start to finish without resorting to &#8220;paradigm shifting&#8221; or &#8220;aligning our vertical spaces for maximum efficiencies.&#8221; We&#8217;re excited to work with Marcus because he understands that in order for EllisLab to succeed in the Enterprise, we have to remain true to our Community every step of the way. </p>
+
+<p>You&#8217;ll also see Marcus providing technical support on the forums and helping out in sales as he makes himself at home here. </p>
+
+<p>It is still too early for us to share any details, but certainly feel free to inundate Marcus with your thoughts, hopes, and dreams for what you&#8217;d like to see from EllisLab Enterprise services. He is at your service. 
+</p>";}i:3;a:9:{s:5:"title";s:41:"System Maintenance, Saturday, February 12";s:4:"link";s:79:"http://expressionengine.com/blog/entry/system_maintenance_saturday_february_12/";s:2:"dc";a:1:{s:7:"creator";s:9:"Greg Aker";}s:8:"category";s:4:"News";s:8:"comments";s:79:"http://expressionengine.com/blog/entry/system_maintenance_saturday_february_12/";s:11:"description";s:731:"<p>The EllisLab family of sites will undergo a maintenance window Saturday, February 12, starting at 8pm US Pacific Time (GMT -8).&nbsp; Downtime should be brief, but the maintenance window is scheduled to be concluded by 11pm.</p>
+
+<p>During this time, if you require access to our online documentation, I&#8217;d like to remind you that we have recently made it available in a Mercurial Repository at <a href="https://bitbucket.org/ellislab/expressionengine-user-guide" title="ExpressionEngine User Guide">BitBucket</a>.&nbsp; There you can download a zip file, fork or clone your own local copy.&nbsp; If you have not used BitBucket before, you can sign up for free <a href="https://bitbucket.org/account/signup/">here</a>.
+</p>";s:4:"guid";s:94:"http://expressionengine.com/blog/entry/system_maintenance_saturday_february_12/#When:19:01:09Z";s:7:"pubdate";s:29:"Thu, 10 Feb 2011 19:01:09 GMT";s:7:"summary";s:731:"<p>The EllisLab family of sites will undergo a maintenance window Saturday, February 12, starting at 8pm US Pacific Time (GMT -8).&nbsp; Downtime should be brief, but the maintenance window is scheduled to be concluded by 11pm.</p>
+
+<p>During this time, if you require access to our online documentation, I&#8217;d like to remind you that we have recently made it available in a Mercurial Repository at <a href="https://bitbucket.org/ellislab/expressionengine-user-guide" title="ExpressionEngine User Guide">BitBucket</a>.&nbsp; There you can download a zip file, fork or clone your own local copy.&nbsp; If you have not used BitBucket before, you can sign up for free <a href="https://bitbucket.org/account/signup/">here</a>.
+</p>";}i:4;a:9:{s:5:"title";s:72:"Fusion Ads Bundle is now available for redemption or upgrade at 40% off!";s:4:"link";s:89:"http://expressionengine.com/blog/entry/fusion_ads_bundle_is_now_available_for_redemption/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:89:"http://expressionengine.com/blog/entry/fusion_ads_bundle_is_now_available_for_redemption/";s:11:"description";s:1625:"<p>Welcome everyone who participated in the Fusion Ads Holiday Bundle! Your long awaited license is now available.</p>
+
+<p>Whether you’re new to ExpressionEngine or a seasoned veteran, we have a special offer for you bundle purchasers. We’re inviting you to turn your bundle license in to a Commercial or Non-Commercial license for a MAJOR discount.</p>
+
+<p><strong>Bundle purchasers can enjoy a 40% discount on upgrades!</strong></p>
+
+<p>To redeem your coupon, please follow these steps:</p>
+
+<p>1. Log in to <a href="http://expressionengine.com/forums/member/login/">ExpressionEngine.com</a>.</p>
+
+<p>2. Be sure you’ve placed your coupon code in <a href="http://expressionengine.com/forums/member/edit_profile/#custom">your profile</a>.</p>
+
+<p>3. Enter our store and click “<a href="https://secure.expressionengine.com/">Redeem Fusion Ads Bundle</a>&#8221;.<br />
+<a href="https://secure.expressionengine.com/"><img src="http://expressionengine.com/files/blog/fustore.jpg" alt="desc" width="518" height="65" /></a></p>
+
+<p>4. Follow the steps upgrading or redeeming the Freelancer license as desired.</p>
+
+<p>5. Enjoy.</p>
+
+<p>To help you get started, we have a list of resources available <a href="http://expressionengine.com/community/">here</a>. In addition, we have support staff ready to answer questions in our <a href="http://expressionengine.com/forums">forums</a>. Please see our <a href="http://expressionengine.com/support/support_policy/">support policy</a>.</p>
+
+<p>Thank you for participating in the Fusion Ads Holiday Bundle! Welcome to the community. We’re excited to get to know you better.
+</p>";s:4:"guid";s:104:"http://expressionengine.com/blog/entry/fusion_ads_bundle_is_now_available_for_redemption/#When:17:31:01Z";s:7:"pubdate";s:29:"Mon, 10 Jan 2011 17:31:01 GMT";s:7:"summary";s:1625:"<p>Welcome everyone who participated in the Fusion Ads Holiday Bundle! Your long awaited license is now available.</p>
+
+<p>Whether you’re new to ExpressionEngine or a seasoned veteran, we have a special offer for you bundle purchasers. We’re inviting you to turn your bundle license in to a Commercial or Non-Commercial license for a MAJOR discount.</p>
+
+<p><strong>Bundle purchasers can enjoy a 40% discount on upgrades!</strong></p>
+
+<p>To redeem your coupon, please follow these steps:</p>
+
+<p>1. Log in to <a href="http://expressionengine.com/forums/member/login/">ExpressionEngine.com</a>.</p>
+
+<p>2. Be sure you’ve placed your coupon code in <a href="http://expressionengine.com/forums/member/edit_profile/#custom">your profile</a>.</p>
+
+<p>3. Enter our store and click “<a href="https://secure.expressionengine.com/">Redeem Fusion Ads Bundle</a>&#8221;.<br />
+<a href="https://secure.expressionengine.com/"><img src="http://expressionengine.com/files/blog/fustore.jpg" alt="desc" width="518" height="65" /></a></p>
+
+<p>4. Follow the steps upgrading or redeeming the Freelancer license as desired.</p>
+
+<p>5. Enjoy.</p>
+
+<p>To help you get started, we have a list of resources available <a href="http://expressionengine.com/community/">here</a>. In addition, we have support staff ready to answer questions in our <a href="http://expressionengine.com/forums">forums</a>. Please see our <a href="http://expressionengine.com/support/support_policy/">support policy</a>.</p>
+
+<p>Thank you for participating in the Fusion Ads Holiday Bundle! Welcome to the community. We’re excited to get to know you better.
+</p>";}i:5;a:9:{s:5:"title";s:30:"Three Quick Housekeeping Notes";s:4:"link";s:70:"http://expressionengine.com/blog/entry/three_quick_housekeeping_notes/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:70:"http://expressionengine.com/blog/entry/three_quick_housekeeping_notes/";s:11:"description";s:1919:"<p>Hi everyone,</p>
+
+<p>I just wanted to remind y&#8217;all of three quick bits of important information:</p>
+
+<p>1. The Fusion Ads holiday bundle is <a href="https://fusionads.net/bundle/closed">now closed</a>. I&#8217;m very sorry if you missed out on the opportunity. You can still purchase <a href="https://secure.expressionengine.com/">ExpressionEngine</a> at our store, though. Wink.</p>
+
+<p>2. Fusion Ads licenses <a href="http://expressionengine.com/fusion/">become active on January 10th, 2011</a>. We did that because we liked the way the date looked when we wrote it out. No, I&#8217;m kidding. We have been catching up as quickly as we can to give everyone the best possible support and the attention you deserve. We&#8217;re gearing up to answer your questions if you&#8217;re new to the community or need help getting going with your new Freelancer license. On January 10th, you&#8217;ll also have the option to upgrade your license if you already hold an existing Freelancer license.</p>
+
+<p>(Honestly, am I the only person that gets giddy at binary dates? Like 11011 for the Fusion Ads bundle activation date? That&#8217;s an MD5 checksum of f616c83f2f0f188265c7004d81d45723 or the number 27. DaVinci&#8217;s code holds nothing on me.)</p>
+
+<p>3. Finally, please remember that tomorrow is our first Friday Round Up Post of the year. If you have anything you want to get out since our <a href="http://expressionengine.com/blog/entry/roundup_post_december_17th_2010/">last Round Up Post</a>, please let me know <a href="http://expressionengine.com/forums/viewthread/176252/">here</a>.</p>
+
+<p>I know that I, personally, have a few plans for the coming weeks that I can&#8217;t wait to share with you. All of EllisLab is gearing up for an amazing year. We have so much we want to tell you. We&#8217;re looking forward to it! So share your news with us, too. Let&#8217;s celebrate this year with gusto.
+</p>";s:4:"guid";s:85:"http://expressionengine.com/blog/entry/three_quick_housekeeping_notes/#When:19:32:34Z";s:7:"pubdate";s:29:"Thu, 06 Jan 2011 19:32:34 GMT";s:7:"summary";s:1919:"<p>Hi everyone,</p>
+
+<p>I just wanted to remind y&#8217;all of three quick bits of important information:</p>
+
+<p>1. The Fusion Ads holiday bundle is <a href="https://fusionads.net/bundle/closed">now closed</a>. I&#8217;m very sorry if you missed out on the opportunity. You can still purchase <a href="https://secure.expressionengine.com/">ExpressionEngine</a> at our store, though. Wink.</p>
+
+<p>2. Fusion Ads licenses <a href="http://expressionengine.com/fusion/">become active on January 10th, 2011</a>. We did that because we liked the way the date looked when we wrote it out. No, I&#8217;m kidding. We have been catching up as quickly as we can to give everyone the best possible support and the attention you deserve. We&#8217;re gearing up to answer your questions if you&#8217;re new to the community or need help getting going with your new Freelancer license. On January 10th, you&#8217;ll also have the option to upgrade your license if you already hold an existing Freelancer license.</p>
+
+<p>(Honestly, am I the only person that gets giddy at binary dates? Like 11011 for the Fusion Ads bundle activation date? That&#8217;s an MD5 checksum of f616c83f2f0f188265c7004d81d45723 or the number 27. DaVinci&#8217;s code holds nothing on me.)</p>
+
+<p>3. Finally, please remember that tomorrow is our first Friday Round Up Post of the year. If you have anything you want to get out since our <a href="http://expressionengine.com/blog/entry/roundup_post_december_17th_2010/">last Round Up Post</a>, please let me know <a href="http://expressionengine.com/forums/viewthread/176252/">here</a>.</p>
+
+<p>I know that I, personally, have a few plans for the coming weeks that I can&#8217;t wait to share with you. All of EllisLab is gearing up for an amazing year. We have so much we want to tell you. We&#8217;re looking forward to it! So share your news with us, too. Let&#8217;s celebrate this year with gusto.
+</p>";}i:6;a:9:{s:5:"title";s:34:"We’re back ready for a new year!";s:4:"link";s:70:"http://expressionengine.com/blog/entry/were_back_ready_for_a_new_year/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:70:"http://expressionengine.com/blog/entry/were_back_ready_for_a_new_year/";s:11:"description";s:576:"<p>Welcome back to a new year, ExpressionEngine pEEps. (Is that EE thing a bit over the top? I personally enjoy tossing that in wherEEver I can.)</p>
+
+<p>I just wanted to let you know we&#8217;re working to catch up as quickly as possible. We&#8217;ve enjoyed our holiday, have some amazing plans for a great new year and are actively working at bringing those to light. In the mean time, hold tight, we&#8217;re catching up with our in-boxes as I&#8217;m sure many of you are as well.</p>
+
+<p>Here&#8217;s to a nEEw year! (Ok, you&#8217;re right, that was over the top.)
+</p>";s:4:"guid";s:85:"http://expressionengine.com/blog/entry/were_back_ready_for_a_new_year/#When:22:12:25Z";s:7:"pubdate";s:29:"Tue, 04 Jan 2011 22:12:25 GMT";s:7:"summary";s:576:"<p>Welcome back to a new year, ExpressionEngine pEEps. (Is that EE thing a bit over the top? I personally enjoy tossing that in wherEEver I can.)</p>
+
+<p>I just wanted to let you know we&#8217;re working to catch up as quickly as possible. We&#8217;ve enjoyed our holiday, have some amazing plans for a great new year and are actively working at bringing those to light. In the mean time, hold tight, we&#8217;re catching up with our in-boxes as I&#8217;m sure many of you are as well.</p>
+
+<p>Here&#8217;s to a nEEw year! (Ok, you&#8217;re right, that was over the top.)
+</p>";}i:7;a:9:{s:5:"title";s:22:"ExpressionEngine 2.1.3";s:4:"link";s:62:"http://expressionengine.com/blog/entry/expressionengine_2.1.3/";s:2:"dc";a:1:{s:7:"creator";s:9:"Lisa Wess";}s:8:"category";s:4:"News";s:8:"comments";s:62:"http://expressionengine.com/blog/entry/expressionengine_2.1.3/";s:11:"description";s:873:"<p>Hello, all,</p>
+
+<p>This morning, we have released a new version to fix some critical bugs in ExpressionEngine 2.1.2. This includes fixes for the Discussion Forum module.</p>
+
+<p>You can read about these updates in our <a href="http://expressionengine.com/user_guide/changelog.html#v213">ExpressionEngine Change Log</a> and <a href="http://expressionengine.com/user_guide/modules/forum/changelog.html#v312">Discussion Forum Change Log</a></p>
+
+<p>This is a required <a href="http://expressionengine.com/user_guide/installation/update.html">ExpressionEngine version update</a> for sites running 2.1.2, as well as <a href="http://expressionengine.com/user_guide/modules/forum/forum_update.html">Forum Version Update</a> for Discussion Forum module users.</p>
+
+<p>I apologize for the inconvenience these bugs have created for sites that updated to 2.1.2.</p>
+
+<p>-Lisa
+</p>";s:4:"guid";s:77:"http://expressionengine.com/blog/entry/expressionengine_2.1.3/#When:19:38:47Z";s:7:"pubdate";s:29:"Mon, 20 Dec 2010 19:38:47 GMT";s:7:"summary";s:873:"<p>Hello, all,</p>
+
+<p>This morning, we have released a new version to fix some critical bugs in ExpressionEngine 2.1.2. This includes fixes for the Discussion Forum module.</p>
+
+<p>You can read about these updates in our <a href="http://expressionengine.com/user_guide/changelog.html#v213">ExpressionEngine Change Log</a> and <a href="http://expressionengine.com/user_guide/modules/forum/changelog.html#v312">Discussion Forum Change Log</a></p>
+
+<p>This is a required <a href="http://expressionengine.com/user_guide/installation/update.html">ExpressionEngine version update</a> for sites running 2.1.2, as well as <a href="http://expressionengine.com/user_guide/modules/forum/forum_update.html">Forum Version Update</a> for Discussion Forum module users.</p>
+
+<p>I apologize for the inconvenience these bugs have created for sites that updated to 2.1.2.</p>
+
+<p>-Lisa
+</p>";}i:8;a:9:{s:5:"title";s:39:"We’re all bundled up for the Holidays";s:4:"link";s:76:"http://expressionengine.com/blog/entry/were_all_bundled_up_for_the_holidays/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:76:"http://expressionengine.com/blog/entry/were_all_bundled_up_for_the_holidays/";s:11:"description";s:3332:"<p>This week ExpressionEngine ventured in to something new. We&#8217;re proud to be part of the <a href="https://fusionads.net/bundle/">Fusion Ads Holiday Bundle</a>. Chris Bowler, Co-Founder at Fusion Ads, came to us with this wonderful idea of creating a software package aimed specifically at developers and designers. With so much support over the years from the web development community, we wanted to take this opportunity to give back a little.</p>
+
+<p>This amazing package includes our Freelancer license. You&#8217;ll find software for designing, organizing, developing, and learning. We&#8217;ll send out EE Freelancer codes on January 10th. We hope you havea great holiday season. We&#8217;re looking forward to bringing in 2011 with you. </p>
+
+<p><strong>You have questions, we have answers</strong></p>
+
+<p>Here are some of the Frequently Asked Questions regarding this bundle.</p>
+
+<p><strong>Can I upgrade my Freelancer License to a Commercial one?</strong> YES! You can upgrade in our store, after January 10th, 2011, by selecting the &#8220;upgrade to commercial&#8221; option for $200.</p>
+
+<p><strong>What if I already have a Freelancer license and I don&#8217;t need it?</strong> Why not participate in a give-away like some of our staff are? That&#8217;s right, the bundle sounds good to us, too. Some of us couldn&#8217;t wait to get our paws on the software. But since we already have access to a freelancer license (perks of the job here) we want to share that with you!</p>
+
+<p>Several of our staff are participating with give-aways. If you&#8217;d like to try to win a freelancer license, please participate!</p>
+
+<p>GO WIN A FREELANCER LICENSE:<br />
+1. <a href="http://www.gregaker.net/2010/dec/16/want_an_expressionengine_license_to_help_you_get_started/">Greg</a><br />
+2. <a href="http://mrs.flinger.us/index.php?/blog/blog_permalink/win_an_expressionengine_freelancer_license">Flinger</a><br />
+3. <a href="http://www.pascalkriete.com/win_ee">Pascal</a><br />
+4. Les *Coming Soon</p>
+
+<p><strong>What if I want to give away a Freelancer license, too?</strong> Excellent! We&#8217;ll promote that for you in our forums. Please place your site and link to your give-away in <a href="http://expressionengine.com/forums/viewthread/176164/">the forum</a>. Have fun with it! Maybe you&#8217;ll make new friends. (And clients)</p>
+
+<p><strong>What is this Coupon Code for and what do I do with it?</strong><br />
+In order to get your license on January 10, 2011, you&#8217;ll need an ExpressionEngine user account. <a href="http://expressionengine.com/forums/member/register">Register here</a>. You&#8217;ll need the coupon code you receive in the Fusion Ad bundle to place it in the correct field.</p>
+
+<p>If you&#8217;re already a member, you&#8217;ll find the coupon code field in your &#8220;<a href="http://expressionengine.com/forums/member/edit_profile/#custom">Edit Profile</a>&#8221; area. Fill in the appropriate box so we are sure to get the license to you, even if you choose to upgrade later.</p>
+
+<p><strong>Can I get a copy early?</strong><br />
+We do not have a demo or free version for download. However, while you enjoy some holiday festivities, you&#8217;ll get a head start on the Ins and Outs of ExpressionEngine with <a href="http://expressionengine.com/fusion/">these tools</a>.</p>
+
+";s:4:"guid";s:91:"http://expressionengine.com/blog/entry/were_all_bundled_up_for_the_holidays/#When:22:47:38Z";s:7:"pubdate";s:29:"Thu, 16 Dec 2010 22:47:38 GMT";s:7:"summary";s:3332:"<p>This week ExpressionEngine ventured in to something new. We&#8217;re proud to be part of the <a href="https://fusionads.net/bundle/">Fusion Ads Holiday Bundle</a>. Chris Bowler, Co-Founder at Fusion Ads, came to us with this wonderful idea of creating a software package aimed specifically at developers and designers. With so much support over the years from the web development community, we wanted to take this opportunity to give back a little.</p>
+
+<p>This amazing package includes our Freelancer license. You&#8217;ll find software for designing, organizing, developing, and learning. We&#8217;ll send out EE Freelancer codes on January 10th. We hope you havea great holiday season. We&#8217;re looking forward to bringing in 2011 with you. </p>
+
+<p><strong>You have questions, we have answers</strong></p>
+
+<p>Here are some of the Frequently Asked Questions regarding this bundle.</p>
+
+<p><strong>Can I upgrade my Freelancer License to a Commercial one?</strong> YES! You can upgrade in our store, after January 10th, 2011, by selecting the &#8220;upgrade to commercial&#8221; option for $200.</p>
+
+<p><strong>What if I already have a Freelancer license and I don&#8217;t need it?</strong> Why not participate in a give-away like some of our staff are? That&#8217;s right, the bundle sounds good to us, too. Some of us couldn&#8217;t wait to get our paws on the software. But since we already have access to a freelancer license (perks of the job here) we want to share that with you!</p>
+
+<p>Several of our staff are participating with give-aways. If you&#8217;d like to try to win a freelancer license, please participate!</p>
+
+<p>GO WIN A FREELANCER LICENSE:<br />
+1. <a href="http://www.gregaker.net/2010/dec/16/want_an_expressionengine_license_to_help_you_get_started/">Greg</a><br />
+2. <a href="http://mrs.flinger.us/index.php?/blog/blog_permalink/win_an_expressionengine_freelancer_license">Flinger</a><br />
+3. <a href="http://www.pascalkriete.com/win_ee">Pascal</a><br />
+4. Les *Coming Soon</p>
+
+<p><strong>What if I want to give away a Freelancer license, too?</strong> Excellent! We&#8217;ll promote that for you in our forums. Please place your site and link to your give-away in <a href="http://expressionengine.com/forums/viewthread/176164/">the forum</a>. Have fun with it! Maybe you&#8217;ll make new friends. (And clients)</p>
+
+<p><strong>What is this Coupon Code for and what do I do with it?</strong><br />
+In order to get your license on January 10, 2011, you&#8217;ll need an ExpressionEngine user account. <a href="http://expressionengine.com/forums/member/register">Register here</a>. You&#8217;ll need the coupon code you receive in the Fusion Ad bundle to place it in the correct field.</p>
+
+<p>If you&#8217;re already a member, you&#8217;ll find the coupon code field in your &#8220;<a href="http://expressionengine.com/forums/member/edit_profile/#custom">Edit Profile</a>&#8221; area. Fill in the appropriate box so we are sure to get the license to you, even if you choose to upgrade later.</p>
+
+<p><strong>Can I get a copy early?</strong><br />
+We do not have a demo or free version for download. However, while you enjoy some holiday festivities, you&#8217;ll get a head start on the Ins and Outs of ExpressionEngine with <a href="http://expressionengine.com/fusion/">these tools</a>.</p>
+
+";}i:9;a:9:{s:5:"title";s:36:"Call For Papers: Speakers Announced!";s:4:"link";s:74:"http://expressionengine.com/blog/entry/call_for_papers_speakers_announced/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:74:"http://expressionengine.com/blog/entry/call_for_papers_speakers_announced/";s:11:"description";s:2047:"<p>We want to thank everyone who applied for a topic at EECI2011. We were overwhelmed with amazing topics and talented developers. However, we only have a limited number of spots we can fill and had to make some terribly tough choices on who to reserve for later conferences and who to invite for this year.</p>
+
+<p>Yesterday, Robert Eerhart of <a href="http://whoooz.nl">Whoooz!</a> announced on Twitter the following speakers from our collection of the Call For Papers.</p>
+
+<p>We&#8217;re excited to announce the following will be speaking at EECI 2011 NY: </p>
+
+<ul>
+<li>Ruthie BenDor of  <a href="http://ruthiebendor.com/">Ruthie BenDor . Com</a></li>
+<li>Mark Huot  of <a href="http://happycog.com/about/huot/">Happy Cog</a></li>
+<li>Brian Warren of <a href="http://happycog.com/about/warren/">Happy Cog</a></li>
+<li>David Dexter of <a href="http://www.brilliant2.com">Brilliant2</a></li>
+<li>Erik Reagan of <a href="http://focuslabllc.com">Focus Lab, LLC</a></li>
+<li>Lowell Kitchen  of <a href="http://www.bluestatedigital.com/">Blue State Digital</a></li>
+<li>Rob Sanchez of <a href="http://barrettnewton.com/">Barrett Newton Interactive</a></li>
+<li>Jacob Russell of <a href="http://masugadesign.com/">Masuga Design</a></li>
+<li>Greg Aker of <a href="http://ellislab.com">EllisLab</a></li>
+<li>Stephen Lewis  of <a href="http://experienceinternet.co.uk/">Experience Internet</a></li>
+</ul>
+
+<p>If you applied and did not get accepted this year, or if you&#8217;re hoping to apply for a future conference, please do so. The submissions were amazing and we look forward to reviewing that same level of quality in future conferences. </p>
+
+<p>The official EECI 2011 website will be up at the beginning of January. Check back for a full list of exciting speakers and topics which will be announced at that time.</p>
+
+<p>We&#8217;re looking forward to the conference. With this as our starting list, we&#8217;re hoping you&#8217;re gaining excitement as well.</p>
+
+<p>Congratulations to those above! We&#8217;ll see you in New York City.
+</p>";s:4:"guid";s:89:"http://expressionengine.com/blog/entry/call_for_papers_speakers_announced/#When:01:05:32Z";s:7:"pubdate";s:29:"Wed, 01 Dec 2010 01:05:32 GMT";s:7:"summary";s:2047:"<p>We want to thank everyone who applied for a topic at EECI2011. We were overwhelmed with amazing topics and talented developers. However, we only have a limited number of spots we can fill and had to make some terribly tough choices on who to reserve for later conferences and who to invite for this year.</p>
+
+<p>Yesterday, Robert Eerhart of <a href="http://whoooz.nl">Whoooz!</a> announced on Twitter the following speakers from our collection of the Call For Papers.</p>
+
+<p>We&#8217;re excited to announce the following will be speaking at EECI 2011 NY: </p>
+
+<ul>
+<li>Ruthie BenDor of  <a href="http://ruthiebendor.com/">Ruthie BenDor . Com</a></li>
+<li>Mark Huot  of <a href="http://happycog.com/about/huot/">Happy Cog</a></li>
+<li>Brian Warren of <a href="http://happycog.com/about/warren/">Happy Cog</a></li>
+<li>David Dexter of <a href="http://www.brilliant2.com">Brilliant2</a></li>
+<li>Erik Reagan of <a href="http://focuslabllc.com">Focus Lab, LLC</a></li>
+<li>Lowell Kitchen  of <a href="http://www.bluestatedigital.com/">Blue State Digital</a></li>
+<li>Rob Sanchez of <a href="http://barrettnewton.com/">Barrett Newton Interactive</a></li>
+<li>Jacob Russell of <a href="http://masugadesign.com/">Masuga Design</a></li>
+<li>Greg Aker of <a href="http://ellislab.com">EllisLab</a></li>
+<li>Stephen Lewis  of <a href="http://experienceinternet.co.uk/">Experience Internet</a></li>
+</ul>
+
+<p>If you applied and did not get accepted this year, or if you&#8217;re hoping to apply for a future conference, please do so. The submissions were amazing and we look forward to reviewing that same level of quality in future conferences. </p>
+
+<p>The official EECI 2011 website will be up at the beginning of January. Check back for a full list of exciting speakers and topics which will be announced at that time.</p>
+
+<p>We&#8217;re looking forward to the conference. With this as our starting list, we&#8217;re hoping you&#8217;re gaining excitement as well.</p>
+
+<p>Congratulations to those above! We&#8217;ll see you in New York City.
+</p>";}i:10;a:9:{s:5:"title";s:41:"ExpressionEngine 2.1.2: Leaner and Meaner";s:4:"link";s:80:"http://expressionengine.com/blog/entry/expressionengine_2.1.2_leaner_and_meaner/";s:2:"dc";a:1:{s:7:"creator";s:13:"Brandon Jones";}s:8:"category";s:4:"News";s:8:"comments";s:80:"http://expressionengine.com/blog/entry/expressionengine_2.1.2_leaner_and_meaner/";s:11:"description";s:1429:"<p>ExpressionEngine 2.1.2 is due out in December and will mark our last release of 2010. In addition to a solid number of bug fixes, I’d like to offer a glimpse of one of its new features right now.</p>
+
+<p>If you’ve ever tried to modify our control panel themes, you know it can be an arduous task. Handing off a tweaked control panel to a client meant taking our default theme files, duplicating them completely and modifying just that one bit you needed to change. While this worked, it was inefficient and difficult to maintain, requiring you to constantly keep your customized theme in-step with ExpressionEngine’s oft-improving stock theme.</p>
+
+<p>ExpressionEngine 2.1.2 introduces cascading control panel themes. Simply put, your tweaked theme need now only consist of the files you’ve actually modified. Let’s say you want to tweak a bit of markup on the Publish page for your client. Just create a new theme folder, let’s call it “my_theme”, and drop your modified publish.php into the my_theme/content folder. Voilà! No other files or folders required. Anything you haven’t provided will be automatically fetched from the default theme.</p>
+
+<p>Cascading control panel themes also means that our Corporate and Fruit themes are now nothing more than CSS and images. The end result? An even leaner and meaner ExpressionEngine, with a faster and more robust control panel for you and your clients.
+</p>";s:4:"guid";s:95:"http://expressionengine.com/blog/entry/expressionengine_2.1.2_leaner_and_meaner/#When:19:40:19Z";s:7:"pubdate";s:29:"Mon, 29 Nov 2010 19:40:19 GMT";s:7:"summary";s:1429:"<p>ExpressionEngine 2.1.2 is due out in December and will mark our last release of 2010. In addition to a solid number of bug fixes, I’d like to offer a glimpse of one of its new features right now.</p>
+
+<p>If you’ve ever tried to modify our control panel themes, you know it can be an arduous task. Handing off a tweaked control panel to a client meant taking our default theme files, duplicating them completely and modifying just that one bit you needed to change. While this worked, it was inefficient and difficult to maintain, requiring you to constantly keep your customized theme in-step with ExpressionEngine’s oft-improving stock theme.</p>
+
+<p>ExpressionEngine 2.1.2 introduces cascading control panel themes. Simply put, your tweaked theme need now only consist of the files you’ve actually modified. Let’s say you want to tweak a bit of markup on the Publish page for your client. Just create a new theme folder, let’s call it “my_theme”, and drop your modified publish.php into the my_theme/content folder. Voilà! No other files or folders required. Anything you haven’t provided will be automatically fetched from the default theme.</p>
+
+<p>Cascading control panel themes also means that our Corporate and Fruit themes are now nothing more than CSS and images. The end result? An even leaner and meaner ExpressionEngine, with a faster and more robust control panel for you and your clients.
+</p>";}i:11;a:9:{s:5:"title";s:23:"So Long, Farewell PHP 4";s:4:"link";s:62:"http://expressionengine.com/blog/entry/so_long_farewell_php_4/";s:2:"dc";a:1:{s:7:"creator";s:9:"Greg Aker";}s:8:"category";s:18:"Developer BlogNews";s:8:"comments";s:62:"http://expressionengine.com/blog/entry/so_long_farewell_php_4/";s:11:"description";s:2794:"<p>Our next ExpressionEngine release will mark the end of PHP 4 support in ExpressionEngine and CodeIgniter. For most of you, this should be a non-issue. PHP 4 was originally released in May of 2000 and reached End of Life in December of 2007.&nbsp; If you think about it, PHP 4 is to us what Internet Explorer 6 is to you.</p>
+
+<p>We will be requiring PHP 5.1.6. The easiest way to see if your current host meets the requirements is to download and test using the <a href="http://expressionengine.com/files/ee_server_wizard.zip">Server Wizard</a>. If your host does not meet the minimum requirements, open a support ticket and work with them to upgrade your account to PHP 5. In the majority of cases, this should be trivial.</p>
+
+<p>If you are a third-party developer there are a few things you need to be aware of:</p>
+
+<p>1. All constructors have been renamed to __construct. If your code extends one of our classes and includes a call to the parent constructor, you will need to change that call.</p>
+
+<p>2. PHP 5.1.6 does <b>not</b> include support for native JSON functions. To remain compatible with all ExpressionEngine add-ons please make sure you continue to use:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">javascript</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">generate_json</span><span style="color: #007700">();<br /><br /></span><span style="color: #FF8000">//&nbsp;and&nbsp;in&nbsp;reverse<br /></span><span style="color: #007700">if&nbsp;(&nbsp;!&nbsp;</span><span style="color: #0000BB">function_exists</span><span style="color: #007700">(</span><span style="color: #DD0000">'json_decode'</span><span style="color: #007700">))<br /></span><span style="color: #0000BB">&#123;<br />&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">load</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">library</span><span style="color: #007700">(</span><span style="color: #DD0000">'Services_Json'</span><span style="color: #007700">);<br /></span><span style="color: #0000BB">&#125;<br /><br />json_decode</span><span style="color: #007700">(</span><span style="color: #0000BB">$json</span><span style="color: #007700">);&nbsp;</span>
+</span>
+</code></div>
+
+<p>Keep an eye on the <a href="http://expressionengine.com/user_guide/development">developers docs</a> as we have some cool stuff in store.</p>
+
+<p>Let&#8217;s all do a happy dance and say goodbye to our little friend.&nbsp; 
+</p>";s:4:"guid";s:77:"http://expressionengine.com/blog/entry/so_long_farewell_php_4/#When:20:40:25Z";s:7:"pubdate";s:29:"Thu, 11 Nov 2010 20:40:25 GMT";s:7:"summary";s:2794:"<p>Our next ExpressionEngine release will mark the end of PHP 4 support in ExpressionEngine and CodeIgniter. For most of you, this should be a non-issue. PHP 4 was originally released in May of 2000 and reached End of Life in December of 2007.&nbsp; If you think about it, PHP 4 is to us what Internet Explorer 6 is to you.</p>
+
+<p>We will be requiring PHP 5.1.6. The easiest way to see if your current host meets the requirements is to download and test using the <a href="http://expressionengine.com/files/ee_server_wizard.zip">Server Wizard</a>. If your host does not meet the minimum requirements, open a support ticket and work with them to upgrade your account to PHP 5. In the majority of cases, this should be trivial.</p>
+
+<p>If you are a third-party developer there are a few things you need to be aware of:</p>
+
+<p>1. All constructors have been renamed to __construct. If your code extends one of our classes and includes a call to the parent constructor, you will need to change that call.</p>
+
+<p>2. PHP 5.1.6 does <b>not</b> include support for native JSON functions. To remain compatible with all ExpressionEngine add-ons please make sure you continue to use:</p>
+
+<div class="codeblock"><code><span style="color: #000000">
+<span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">javascript</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">generate_json</span><span style="color: #007700">();<br /><br /></span><span style="color: #FF8000">//&nbsp;and&nbsp;in&nbsp;reverse<br /></span><span style="color: #007700">if&nbsp;(&nbsp;!&nbsp;</span><span style="color: #0000BB">function_exists</span><span style="color: #007700">(</span><span style="color: #DD0000">'json_decode'</span><span style="color: #007700">))<br /></span><span style="color: #0000BB">&#123;<br />&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">EE</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">load</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">library</span><span style="color: #007700">(</span><span style="color: #DD0000">'Services_Json'</span><span style="color: #007700">);<br /></span><span style="color: #0000BB">&#125;<br /><br />json_decode</span><span style="color: #007700">(</span><span style="color: #0000BB">$json</span><span style="color: #007700">);&nbsp;</span>
+</span>
+</code></div>
+
+<p>Keep an eye on the <a href="http://expressionengine.com/user_guide/development">developers docs</a> as we have some cool stuff in store.</p>
+
+<p>Let&#8217;s all do a happy dance and say goodbye to our little friend.&nbsp; 
+</p>";}i:12;a:9:{s:5:"title";s:25:"Call For Papers EECI 2011";s:4:"link";s:65:"http://expressionengine.com/blog/entry/call_for_papers_eeci_2011/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Doherty";}s:8:"category";s:4:"News";s:8:"comments";s:65:"http://expressionengine.com/blog/entry/call_for_papers_eeci_2011/";s:11:"description";s:1572:"<p>We’re gearing up for EECI2011! This year we’re looking forward to a fantastic group of speakers, as always, but are doing something a touch different. We’re taking applications for speaking topics. You’ll have the chance to give us input in what topics you’d like to hear as well as offer to speak, or suggest a speaker, and help shape the ExpressionEngine/CodeIgniter event of the year!</p>
+
+<p>If I sound a bit excited, I am. If you missed EECI in San Francisco or Leiden, you won’t want to miss what’s coming up for New York.</p>
+
+<p><b>Please apply to any of the following topics, or submit an idea of your own.</b>
+</p><ul>
+<li>Installing EE Best Practices</li>
+<li>Moving from another CMS to ExpressionEngine</li>
+<li>Upgrading to ExpressionEngine 2</li>
+<li>PHP in Templates</li>
+<li>Using CodeIgniter to extend ExpressionEngine: A beginning handbook</li>
+<li>Utilizing E-commerce with ExpressionEngine</li>
+<li>How ExpressionEngine utilizes CodeIgniter and what that means for development</li>
+<li>User best practices: how to best prepare your users for administrating ExpressionEngine</li>
+<li>Channels, Categories, and Custom Fields: Best Practices for utilizing ExpressionEngine&#8217;s ultimate flexibility</li>
+<li>Your Suggested Topic</li>
+</ul>
+
+<p><b>How to apply</b>
+</p><ul>
+<li>Two to three paragraph submission describing a topic</li>
+<li>Your expected outcome with goals for the audience.</li>
+<li>The level of audience you&#8217;re reaching</li>
+</ul>
+
+<p>Submission deadline is November 23th, 2010. Please email submissions to 
+</p>";s:4:"guid";s:80:"http://expressionengine.com/blog/entry/call_for_papers_eeci_2011/#When:22:45:20Z";s:7:"pubdate";s:29:"Mon, 08 Nov 2010 22:45:20 GMT";s:7:"summary";s:1572:"<p>We’re gearing up for EECI2011! This year we’re looking forward to a fantastic group of speakers, as always, but are doing something a touch different. We’re taking applications for speaking topics. You’ll have the chance to give us input in what topics you’d like to hear as well as offer to speak, or suggest a speaker, and help shape the ExpressionEngine/CodeIgniter event of the year!</p>
+
+<p>If I sound a bit excited, I am. If you missed EECI in San Francisco or Leiden, you won’t want to miss what’s coming up for New York.</p>
+
+<p><b>Please apply to any of the following topics, or submit an idea of your own.</b>
+</p><ul>
+<li>Installing EE Best Practices</li>
+<li>Moving from another CMS to ExpressionEngine</li>
+<li>Upgrading to ExpressionEngine 2</li>
+<li>PHP in Templates</li>
+<li>Using CodeIgniter to extend ExpressionEngine: A beginning handbook</li>
+<li>Utilizing E-commerce with ExpressionEngine</li>
+<li>How ExpressionEngine utilizes CodeIgniter and what that means for development</li>
+<li>User best practices: how to best prepare your users for administrating ExpressionEngine</li>
+<li>Channels, Categories, and Custom Fields: Best Practices for utilizing ExpressionEngine&#8217;s ultimate flexibility</li>
+<li>Your Suggested Topic</li>
+</ul>
+
+<p><b>How to apply</b>
+</p><ul>
+<li>Two to three paragraph submission describing a topic</li>
+<li>Your expected outcome with goals for the audience.</li>
+<li>The level of audience you&#8217;re reaching</li>
+</ul>
+
+<p>Submission deadline is November 23th, 2010. Please email submissions to 
+</p>";}i:13;a:9:{s:5:"title";s:24:"Introducing the Forecast";s:4:"link";s:64:"http://expressionengine.com/blog/entry/introducing_the_forecast/";s:2:"dc";a:1:{s:7:"creator";s:11:"Derek Jones";}s:8:"category";s:4:"News";s:8:"comments";s:64:"http://expressionengine.com/blog/entry/introducing_the_forecast/";s:11:"description";s:1468:"<p>We&#8217;ve got a new page for your bookmarks, the <a href="http://expressionengine.com/blog/forecast/">ExpressionEngine Forecast</a> (version 0.1).&nbsp; This page will keep you apprised of what EllisLab is working on right now for ExpressionEngine.</p>
+
+<p>The goal is to keep you informed of what&#8217;s coming soon, so that you have an idea of some of the things that will be in a future release, or that we have an ongoing project for.</p>
+
+<p>Each item includes a brief description of what&#8217;s being worked on, where it sits in queue, who is involved, and the title will link to a topical discussion in the forums when available.&nbsp; The items include features and plans that we are preparing to deliver in the very near term, perhaps one or two updates out.&nbsp; Note that this list does not include bugs that are being worked on, as their status and progress is published separately in the <a href="http://expressionengine.com/bug_tracker/">Bug Tracker</a>.</p>
+
+<p>Why version 0.1?&nbsp; The ExpressionEngine Forecast is a continually evolving communication tool that we will be progressively adding features to.&nbsp; We have ideas for interactivity, improved display, tracking progress over time, ways to communicate some of our longer term goals without giving up competitive ground, etc.&nbsp; This is the most basic start, but we feel that even in this form it has value for the community, so we&#8217;re happy to start publishing it now.
+</p>";s:4:"guid";s:79:"http://expressionengine.com/blog/entry/introducing_the_forecast/#When:16:31:50Z";s:7:"pubdate";s:29:"Tue, 02 Nov 2010 16:31:50 GMT";s:7:"summary";s:1468:"<p>We&#8217;ve got a new page for your bookmarks, the <a href="http://expressionengine.com/blog/forecast/">ExpressionEngine Forecast</a> (version 0.1).&nbsp; This page will keep you apprised of what EllisLab is working on right now for ExpressionEngine.</p>
+
+<p>The goal is to keep you informed of what&#8217;s coming soon, so that you have an idea of some of the things that will be in a future release, or that we have an ongoing project for.</p>
+
+<p>Each item includes a brief description of what&#8217;s being worked on, where it sits in queue, who is involved, and the title will link to a topical discussion in the forums when available.&nbsp; The items include features and plans that we are preparing to deliver in the very near term, perhaps one or two updates out.&nbsp; Note that this list does not include bugs that are being worked on, as their status and progress is published separately in the <a href="http://expressionengine.com/bug_tracker/">Bug Tracker</a>.</p>
+
+<p>Why version 0.1?&nbsp; The ExpressionEngine Forecast is a continually evolving communication tool that we will be progressively adding features to.&nbsp; We have ideas for interactivity, improved display, tracking progress over time, ways to communicate some of our longer term goals without giving up competitive ground, etc.&nbsp; This is the most basic start, but we feel that even in this form it has value for the community, so we&#8217;re happy to start publishing it now.
+</p>";}i:14;a:9:{s:5:"title";s:60:"Full Time Support Position open: Customer Support Specialist";s:4:"link";s:71:"http://expressionengine.com/blog/entry/full_time_support_position_open/";s:2:"dc";a:1:{s:7:"creator";s:9:"Lisa Wess";}s:8:"category";s:4:"News";s:8:"comments";s:71:"http://expressionengine.com/blog/entry/full_time_support_position_open/";s:11:"description";s:2905:"<p>Do you love ExpressionEngine? Do you enjoy helping people succeed using MojoMotor? If so, come join the outstanding EllisLab team as our new Customer Support Specialist!</p>
+
+<p>Reports to: Director of Community Services<br />
+Hours: Full-time salaried position (must be able to work US business hours, potential weekend hours)<br />
+Salary: Negotiable based on experience<br />
+Location: Work from home</p>
+
+<p>The Customer Support Specialist is the first point of contact for all technical support requests and focuses on ensuring an excellent technical support experience for ExpressionEngine and MojoMotor customers. The Customer Support Specialist’s primary responsibility is to champion our customers: beginning with their technical support journey, escalating as necessary, following the issue to resolution, and ensuring a positive support experience.</p>
+
+<p>The Customer Support Specialist enjoys solving challenging puzzles and explaining the solutions to others.</p>
+
+<p>The Customer Support Specialist will work with all EllisLab staff to innovate in these areas and focus on growth of knowledge resources and improving the support workflow.</p>
+
+<p><strong>Duties:</strong></p>
+
+<ul>
+<li>Championing customers and ensuring that support requests are handled with expertise, kindness, and skill</li>
+<li>Handling customer logins securely and confidentially for high level troubleshooting on customer sites</li>
+<li>Escalating issues to the development team as needed</li>
+</ul>
+
+<p><strong>Qualifications:</strong></p>
+
+<ul>
+<li>Proficient with ExpressionEngine and MojoMotor.</li>
+<li>Experience in customer service and support</li>
+<li>Excellent troubleshooting skills</li>
+<li>Knowledge of XHTML, HTML, and other web technologies used in web design</li>
+<li>Knowledge of technologies that affect dynamic publishing systems</li>
+<li>Ability to set up a local development environment (Apache, MySQL, PHP), and modify its configuration as necessary to mimic relevant hosting environments</li>
+<li>Excellent communication and organizational skills, i.e. conversing timely over email and/or IM is essential</li>
+<li>Ability to work well independently and productively on a small team without being micromanaged</li>
+<li>Written skills to communicate technical information clearly and in “layman’s terms” while being both professional, kind, friendly, and encouraging</li>
+<li>Ability to recognize patterns of support issues in order to identify where resources are needed and potential bugs need handling</li>
+</ul>
+
+<p>Previous technical support experience is required.</p>
+
+<p><strong>Exceptional Qualifications:</strong></p>
+
+<ul>
+<li>Experience with CodeIgniter, PHP, MySQL, and Javascript</li>
+<li>Experience teaching technical skills</li>
+<li>Excellent telephone skills</li>
+</ul>
+
+<p>Find more opportunities on our <a href="http://ellislab.com/company/jobs/">Jobs page</a>
+</p>";s:4:"guid";s:86:"http://expressionengine.com/blog/entry/full_time_support_position_open/#When:21:22:16Z";s:7:"pubdate";s:29:"Mon, 01 Nov 2010 21:22:16 GMT";s:7:"summary";s:2905:"<p>Do you love ExpressionEngine? Do you enjoy helping people succeed using MojoMotor? If so, come join the outstanding EllisLab team as our new Customer Support Specialist!</p>
+
+<p>Reports to: Director of Community Services<br />
+Hours: Full-time salaried position (must be able to work US business hours, potential weekend hours)<br />
+Salary: Negotiable based on experience<br />
+Location: Work from home</p>
+
+<p>The Customer Support Specialist is the first point of contact for all technical support requests and focuses on ensuring an excellent technical support experience for ExpressionEngine and MojoMotor customers. The Customer Support Specialist’s primary responsibility is to champion our customers: beginning with their technical support journey, escalating as necessary, following the issue to resolution, and ensuring a positive support experience.</p>
+
+<p>The Customer Support Specialist enjoys solving challenging puzzles and explaining the solutions to others.</p>
+
+<p>The Customer Support Specialist will work with all EllisLab staff to innovate in these areas and focus on growth of knowledge resources and improving the support workflow.</p>
+
+<p><strong>Duties:</strong></p>
+
+<ul>
+<li>Championing customers and ensuring that support requests are handled with expertise, kindness, and skill</li>
+<li>Handling customer logins securely and confidentially for high level troubleshooting on customer sites</li>
+<li>Escalating issues to the development team as needed</li>
+</ul>
+
+<p><strong>Qualifications:</strong></p>
+
+<ul>
+<li>Proficient with ExpressionEngine and MojoMotor.</li>
+<li>Experience in customer service and support</li>
+<li>Excellent troubleshooting skills</li>
+<li>Knowledge of XHTML, HTML, and other web technologies used in web design</li>
+<li>Knowledge of technologies that affect dynamic publishing systems</li>
+<li>Ability to set up a local development environment (Apache, MySQL, PHP), and modify its configuration as necessary to mimic relevant hosting environments</li>
+<li>Excellent communication and organizational skills, i.e. conversing timely over email and/or IM is essential</li>
+<li>Ability to work well independently and productively on a small team without being micromanaged</li>
+<li>Written skills to communicate technical information clearly and in “layman’s terms” while being both professional, kind, friendly, and encouraging</li>
+<li>Ability to recognize patterns of support issues in order to identify where resources are needed and potential bugs need handling</li>
+</ul>
+
+<p>Previous technical support experience is required.</p>
+
+<p><strong>Exceptional Qualifications:</strong></p>
+
+<ul>
+<li>Experience with CodeIgniter, PHP, MySQL, and Javascript</li>
+<li>Experience teaching technical skills</li>
+<li>Excellent telephone skills</li>
+</ul>
+
+<p>Find more opportunities on our <a href="http://ellislab.com/company/jobs/">Jobs page</a>
+</p>";}}s:7:"channel";a:9:{s:5:"title";s:7:"EE Blog";s:4:"link";s:33:"http://expressionengine.com/blog/";s:11:"description";s:21:"ExpressionEngine Blog";s:9:"copyright";s:31:"Copyright 2011 ExpressionEngine";s:4:"docs";s:41:"http://www.rssboard.org/rss-specification";s:9:"generator";s:45:"ExpressionEngine http://expressionengine.com/";s:8:"language";s:2:"en";s:13:"lastbuilddate";s:29:"Tue, 22 Mar 2011 21:13:24 GMT";s:7:"tagline";s:21:"ExpressionEngine Blog";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"utf-8";s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:4:"etag";b:0;s:5:"ERROR";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:13:"last_modified";s:31:"Tue, 22 Mar 2011 20:13:24 GMT
+";}
